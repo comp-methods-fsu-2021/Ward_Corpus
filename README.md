@@ -6,7 +6,7 @@ My dissertation project is documenting and contrasting the war-time experience o
 
 # Process for this Class
 
-Many of the sources for my main project do not lend themselves to the aims of this class.  I have, however, found a source that discusses the fleet organization and the nascent concept of the use of aircaraft in naval operations in the inter-war years.  As a single issue, this makes this corpus a little hard to navaigate so I plan to locte each article and break it out of the main txt file and create a file for each individual piece.
+Many of the sources for my main project do not lend themselves to the aims of this class.  I have, however, found a source that discusses the fleet organization and the nascent concept of the use of aircaraft in naval operations in the inter-war years.  As a single issue, this makes this corpus a little hard to navigate so I plan to locate each article and break it out of the main txt file to create a file for each individual piece.
 
 # Cleaning
 
