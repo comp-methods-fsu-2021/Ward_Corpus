@@ -8,6 +8,8 @@ My dissertation project is documenting and contrasting the war-time experience o
 
 Many of the sources for my main project do not lend themselves to the aims of this class.  I have, however, found a source that discusses the fleet organization and the nascent concept of the use of aircaraft in naval operations in the inter-war years.  As a single issue, this makes this corpus a little hard to navigate so I plan to locate each article and break it out of the main txt file to create a file for each individual piece.
 
+3 Feb - Added superficially cleaned versions of indidivdual articles from the July 1925 publication.  Also added a spreadsheet of these articles.  I have not found a piece of information that I see can be organized into a table for publication either in Excel or plain text.
+
 # Cleaning
 
 Showing my age and my less than enthusiastic affinity to new, electronic methods I struggle with plain text editing and do not grasp why I would use it. The source I have chosen for this project is relatively clean already and I can understand it just fine as is. Cleaning with Sublime is a laborious process for me but I am starting to see some small success. The largest area for a little clean up was the page breaks denoted by a long string of #'s which I have reduced to just one and the page number itself. Other than that I do not see much more cleaning needing to be done.
