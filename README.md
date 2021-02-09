@@ -13,3 +13,8 @@ Many of the sources for my main project do not lend themselves to the aims of th
 # Cleaning
 
 Showing my age and my less than enthusiastic affinity to new, electronic methods I struggle with plain text editing and do not grasp why I would use it. The source I have chosen for this project is relatively clean already and I can understand it just fine as is. Cleaning with Sublime is a laborious process for me but I am starting to see some small success. The largest area for a little clean up was the page breaks denoted by a long string of #'s which I have reduced to just one and the page number itself. Other than that I do not see much more cleaning needing to be done.
+
+# Visualization
+
+I choose two charts from the Professional Notes article.  I had intended to compare the values of the two charts against each other showing the varioaus ranges where American and 
+brirish forces could engage in 1925.  RAW Graphs did not work for me.  Google Studio was too confusing.  I did not want to download new software but I added Tableau.  Saw some success but kept getting errors to save projects in the public space.  Took screenshot of one chart I managed to create.
