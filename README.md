@@ -21,3 +21,4 @@ Showing my age and my less than enthusiastic affinity to new, electronic methods
 10 Feb - I choose two charts from the Professional Notes article.  I had intended to compare the values of the two charts against each other showing the varioaus ranges where American and 
 brirish forces could engage in 1925.  RAW Graphs did not work for me.  Google Studio was too confusing.  I did not want to download new software but I added Tableau.  Saw some success but kept getting errors to save projects in the public space.  Took screenshot of one chart I managed to create.
 15 Feb - RAW Graphs working now.  Playing around with visualizations.
+17 Feb - Finally played with tableau enought o gain a view that I liked.  Not perfect but as close as I have come yet.
