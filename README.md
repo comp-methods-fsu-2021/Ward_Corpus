@@ -12,7 +12,7 @@ Many of the sources for my main project do not lend themselves to the aims of th
 
 15 Feb - Some minor cleaning changes uoloaded.  Significant work remains on the table and Professional Notes section but I have re-loaded these to the repository as I work with a copy of them off-line.
 
-6 Apr - Previous to this I have worked my way throught he exercises frequently with not much success.  I did not see the value in Topic Modeling and website construction has been maddeningly frustrating.  I have re-worked how I appraoched my data by separating each issue from July to December 1925 into its own entry.  I have then delved each issue for particular articles that are relevant to how naval power transitioned from battleships to aircraft carriers.  While this transition did not happen until 1942, looking at how nations percieved naval strnegth in the inter-war period gives clues on how naval power developed in this new way.
+6 Apr - Previous to this I have worked my way throught he exercises frequently with not much success.  I did not see the value in Topic Modeling and website construction has been maddeningly frustrating.  I have re-worked how I approached my data by separating each issue from July to December 1925 into its own entry.  I have then delved each issue for particular articles that are relevant to how naval power transitioned from battleships to aircraft carriers.  While this transition did not happen until 1942, looking at how nations percieved naval strnegth in the inter-war period gives clues on how naval power developed in this new way.
 
 # Cleaning
 
