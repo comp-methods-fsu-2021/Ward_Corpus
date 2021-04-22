@@ -44,3 +44,15 @@ brirish forces could engage in 1925.  RAW Graphs did not work for me.  Google St
 # Website
 
 It took some time to get a website working and I am loathe to make too many changes with what I have and go backwards.  I would love to change the theme into something more aesthetically pleasing but have not found the right method yet.  I believe I know what to do but I have not tried it yet becasue I am unsure if I can recover a working website if (when) it fails.  All of the minor tweaks that I have accomplished usually come with several failed attempts and frantic efforts to get back to a semi-working state.
+
+# Potential for this Data
+
+As it pertains to my initial dissertation project, this data provides more of a deep background context to my discussion of the social interaction and attitudes between warship crews of different warships classes during combat operation sof WWII.  This data can be more useful to someone studying fleet organization and construction discussions during the inter-war period.  The mighty US Navy battle fleet that brought Japan to her knees was predominantly designed and authorized in 1940.  Warship design and construction authorized and begun during the war was largely canceled prior to being launched.  Some ideas for future use/potential of this data are:
+
+Tracking the authors of pieces in the main section of each issue
+Proceedings is the professional journal of the US Navy and all of the individual articles are written by serving members of the Navy or civilian agencies or personnel intimately tied to naval issues.  Many of these authors would have served during WWII and it would be interesting to track who wrote what, where they ended up during the war, and analyzing how their professional opinions were born out by the war or changed because of the war.
+
+Analyze the naval intelligence presented in the Professional Notes section
+Each issue has a Professional Notes section whcih reports on the efforts of foreign navies regarding naval operations and design/construction of their national fleets.  Since we now know what each navy had at the time, a researcher could look at what was reported via the Professional Notes section and compare this with the reality we now know.  This is an important element when discussing fleet design elements in the inter-war period and operational decision during war.  One can only prepare for the threat that is known.  Whether you have adequately estimated the threat plays a large role in the decision ont he battlefield.  Analyzing this information may shed morellight one why some decisions were made before the war as the warship design and why some decisions were made during the war as to where and when to commit available forces.
+
+These two are the most important potential uses of this data so far.  I have done a poor job of fully considering how this data can be parsed via computational methods so I am sure there are other elements to consider which I have yet to discover.
